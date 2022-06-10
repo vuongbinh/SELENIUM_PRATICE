@@ -1,2 +1,2 @@
 # SELENIUM_PRATICE
-Repository perpose: Practice selenium
+Repository purpose: Practice selenium
